@@ -149,11 +149,16 @@ Capaz de compreender contextos mais complexos da linguagem.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Enzo Ribeiro**
+**Bruna Soares**
+**Igor Maurílio**
 
-Estudante de Inteligência e Análise de Dados pelo SENAI Suíço-Brasileiro, com interesse em:
+### **Orientação**
+Felipe De Almeida Camargo
+
+Estudantes de Inteligência e Análise de Dados pelo SENAI Suíço-Brasileiro, com interesse em:
 
 * Ciência de Dados
 * Analytics
@@ -161,4 +166,3 @@ Estudante de Inteligência e Análise de Dados pelo SENAI Suíço-Brasileiro, co
 * Auditoria de TI
 * Inteligência Artificial
 
-Conecte-se comigo pelo LinkedIn e acompanhe meus projetos!
