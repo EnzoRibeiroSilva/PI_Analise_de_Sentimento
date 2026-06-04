@@ -152,10 +152,13 @@ Capaz de compreender contextos mais complexos da linguagem.
 ## 👨‍💻 Autores
 
 **Enzo Ribeiro**
+
 **Bruna Soares**
+
 **Igor Maurílio**
 
 ### **Orientação**
+
 Felipe De Almeida Camargo
 
 Estudantes de Inteligência e Análise de Dados pelo SENAI Suíço-Brasileiro, com interesse em:
