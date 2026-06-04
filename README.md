@@ -1,6 +1,6 @@
-# O Peso das Palavras: Análise Exploratória e Sentimento de Avaliações dos Clientes
+# 📊 O Peso das Palavras: Análise Exploratória e Sentimento de Avaliações dos Clientes
 
-## Sobre o Projeto
+## 📖 Sobre o Projeto
 
 Este projeto foi desenvolvido a partir de um conjunto de dados disponibilizado pela **AWS** em parceria com o **SENAI Suíço-Brasileiro**, com o objetivo de investigar a relação entre as notas atribuídas por clientes e o sentimento presente em seus comentários textuais.
 
@@ -8,7 +8,7 @@ Por meio de técnicas de **Análise Exploratória de Dados (EDA)** e **Análise 
 
 ---
 
-## Problema de Negócio
+## 🎯 Problema de Negócio
 
 Em marketplaces digitais, clientes avaliam produtos utilizando:
 
@@ -23,7 +23,7 @@ Este projeto busca responder à seguinte pergunta:
 
 ---
 
-## Objetivos
+## 🚀 Objetivos
 
 * Realizar a exploração e tratamento dos dados.
 * Integrar informações de diferentes tabelas do banco.
@@ -34,7 +34,7 @@ Este projeto busca responder à seguinte pergunta:
 
 ---
 
-## Estrutura do Dataset
+## 🗃️ Estrutura do Dataset
 
 O conjunto de dados é composto por 9 tabelas:
 
@@ -52,13 +52,13 @@ O conjunto de dados é composto por 9 tabelas:
 
 ---
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-### Linguagens
+### 💻 Linguagens
 
 * Python
 
-### Bibliotecas
+### 📚 Bibliotecas
 
 * Pandas
 * NumPy
@@ -72,9 +72,9 @@ O conjunto de dados é composto por 9 tabelas:
 
 ---
 
-## Etapas do Projeto
+## 🔄 Etapas do Projeto
 
-### 1. Exploração dos Dados (EDA)
+### 📊 1. Exploração dos Dados (EDA)
 
 Foram realizadas análises para identificar:
 
@@ -87,7 +87,7 @@ Foram realizadas análises para identificar:
 
 ---
 
-### 2. Integração das Tabelas
+### 🔗 2. Integração das Tabelas
 
 As tabelas foram unificadas utilizando operações de **merge**, permitindo relacionar informações de:
 
@@ -100,7 +100,7 @@ As tabelas foram unificadas utilizando operações de **merge**, permitindo rela
 
 ---
 
-### 3. Tratamento dos Dados
+### 🧹 3. Tratamento dos Dados
 
 Principais transformações:
 
@@ -113,7 +113,7 @@ Principais transformações:
 
 ---
 
-### 4. Análise de Sentimentos
+### 🤖 4. Análise de Sentimentos
 
 Foram utilizados três modelos distintos:
 
@@ -137,7 +137,7 @@ Capaz de compreender contextos mais complexos da linguagem.
 
 ---
 
-## 5. Competências Demonstradas
+## 🧠 5. Competências Demonstradas
 
 * Análise Exploratória de Dados (EDA)
 * Limpeza e tratamento de dados
@@ -149,7 +149,7 @@ Capaz de compreender contextos mais complexos da linguagem.
 
 ---
 
-## Autor
+## 👨‍💻 Autor
 
 **Enzo Ribeiro**
 
