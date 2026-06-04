@@ -1,0 +1,2 @@
+# Analise_de_Sentimento-Projeto_Integrador_Senai_Suico_Brasileiro 
+
